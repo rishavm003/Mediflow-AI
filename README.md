@@ -1,1 +1,1 @@
-# AI-Powered-Healthcare-Triage-System
+# MediFlow-AI
